@@ -148,7 +148,7 @@ img {
 }
 form input {
     border:none;
-    box-shadow: inset 0px 0px 5px rgba(0,0,0,0.9);
+    box-shadow: inset 0px 0px 5px rgba(0,0,0,0.2);
 }
 
 .flip-card {
