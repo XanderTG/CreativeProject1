@@ -203,4 +203,6 @@ form input {
    justify-content:center;
     padding-right: 10px;
 }
-
+#sticky-footer {
+  flex-shrink: none;
+}
